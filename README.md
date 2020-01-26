@@ -19,9 +19,10 @@ _Motor de base de datos MySql, servidor apache o nginx y php5 o superior ____
 
 ### Instalación 🔧
 
-_Basta con descargar los archivos html y archivos php y ubicarlos en una carpeta en el servidor. Por otra parte hay que ejecutar el archivo .sql para crear la base de datos con las tablas necesarias para el ejercicio_
+_Basta con descargar el archivo comprimido y desempaquetar los archivos html y archivos php y ubicarlos en una carpeta en el servidor. Por otra parte 
+hay que ejecutar el archivo meiko.sql para crear la base de datos con las tablas necesarias para el ejercicio_
 
-_  _
+_ _
 
 ```
 
